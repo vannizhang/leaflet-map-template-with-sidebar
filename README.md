@@ -11,3 +11,5 @@ It also includes some basic ready-to-use Bootstrap components in the sidebar:
 - Thumbnails
 - wells
 - panel
+
+You can check out this [template](http://vannizhang.github.io/leaflet-map-template-with-sidebar/) here.
